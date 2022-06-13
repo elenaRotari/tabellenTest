@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   padding-bottom: 5rem;
   color: darkred;
-  font-size: 5rem;
+  font-size: 4rem;
 }
 table {
   border: 3px solid #444;
@@ -16,7 +16,7 @@ table {
   margin: 0 auto;
 }
 caption {
-  color: #333;
+  color: dimgray;
   font-size: 3rem;
 }
 th,
