@@ -25,5 +25,8 @@ td {
   padding: 0.9rem;
 }
 th {
-  background: lightgray;
+  background: dimgray;
+}
+.zebraMuster:nth-child(even) {
+  background-color: lightgrey;
 }
