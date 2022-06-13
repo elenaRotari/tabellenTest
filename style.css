@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  padding-bottom: 5rem;
+  color: darkred;
+  font-size: 5rem;
+}
+table {
+  border: 3px solid #444;
+  padding: 2rem;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+caption {
+  color: #333;
+  font-size: 3rem;
+}
+th,
+td {
+  border: 2px solid #333;
+  padding: 0.9rem;
+}
+th {
+  background: lightgray;
+}
