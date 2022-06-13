@@ -26,6 +26,7 @@ td {
 }
 th {
   background: dimgray;
+  color: aliceblue;
 }
 .zebraMuster:nth-child(even) {
   background-color: lightgrey;
